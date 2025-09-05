@@ -1,0 +1,31 @@
+.facts {
+  background-color: #eee;
+  margin-top: 10px;
+  padding: 16px 24px;
+}
+
+.rating p {
+  padding: 2px 8px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.green {
+  background-color: lightgreen;
+}
+
+.yellow {
+  background-color: lightyellow;
+}
+
+.red {
+  background-color: rosybrown;
+}
+
+.star {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  display: inline-block;
+}
