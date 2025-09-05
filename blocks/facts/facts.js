@@ -27,6 +27,5 @@ export default function decorate(block) {
     block.appendChild(span);
   }
 
-  /* change to ul, li */
   console.log(block);
 }
