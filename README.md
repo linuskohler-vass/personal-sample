@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--personal-sample--linuskohler-vass.aem.page/
+- Live: https://main--personal-sample--linuskohler-vass.aem.live/
 
 ## Documentation
 
